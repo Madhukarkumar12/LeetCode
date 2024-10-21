@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Madhukarkumar12/LeetCode/tree/master/0060-permutation-sequence) |
+## Array
+|  |
+| ------- |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Madhukarkumar12/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Madhukarkumar12/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
