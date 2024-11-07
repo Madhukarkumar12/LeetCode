@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Madhukarkumar12/LeetCode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Madhukarkumar12/LeetCode/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -28,5 +29,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Madhukarkumar12/LeetCode/tree/master/0062-unique-paths) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Madhukarkumar12/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Madhukarkumar12/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
