@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Madhukarkumar12/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Madhukarkumar12/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Madhukarkumar12/LeetCode/tree/master/0062-unique-paths) |
+| [0152-maximum-product-subarray](https://github.com/Madhukarkumar12/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Madhukarkumar12/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Combinatorics
 |  |
